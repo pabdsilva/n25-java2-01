@@ -1,0 +1,47 @@
+Objetos
+Caixa
+Cliente
+Cobra
+
+
+
+
+Caixa {
+Propriedades:
+
+01.Material
+02.Formato
+03.Tamanho
+
+Comportamentos:
+
+01.Abrir
+02.Fechar
+03.Se locomover}
+
+Cliente {
+Propriedades:
+
+01.Nome
+02.Idade
+03.Espécie de cobra favorita
+
+Comportamentos:
+
+01.Falar
+02.Andar
+03.Comprar }
+
+Cliente {
+Propriedades:
+
+01.Espécie
+02.Idade
+03.Cor
+
+Comportamentos:
+
+01.Andar
+02.Sibilar
+03.Carregar objetoss }
+
