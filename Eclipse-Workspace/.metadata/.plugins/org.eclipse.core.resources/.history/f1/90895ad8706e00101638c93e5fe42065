@@ -1,0 +1,11 @@
+package br.com.senaisp.bauru.secao03.aula04;
+
+public class Exemplo02 {
+
+	public static void main(String[] args) {
+		char letra = 65; //Usa a tabela Ask para considerar a letra indicada pelo número
+		letra++;
+		System.out.println(letra);
+	}
+
+}
